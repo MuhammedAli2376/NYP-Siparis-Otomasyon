@@ -1,0 +1,12 @@
+televizyon
+5
+1800 
+ayakkabı
+1
+250
+makarna
+1
+2
+yok
+22
+22

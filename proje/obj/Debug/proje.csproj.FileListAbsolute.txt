@@ -1,0 +1,147 @@
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\bin\Debug\HAYSİKİM.exe.config
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\bin\Debug\HAYSİKİM.exe
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\bin\Debug\HAYSİKİM.pdb
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.csprojAssemblyReference.cache
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form1.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Properties.Resources.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.csproj.GenerateResource.cache
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.csproj.CoreCompileInputs.cache
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.exe
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.pdb
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form2.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.ödeme.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form3.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form5.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form6.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.Form7.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.MDIParent1.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.ÜrünEkle.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.ÜrünSil.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.ÜrünDüzenle.resources
+D:\uygulamalar\HAYSİKİM\HAYSİKİM\obj\Debug\HAYSİKİM.PersonelEkle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\bin\Debug\HAYSİKİM.exe.config
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\bin\Debug\HAYSİKİM.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\bin\Debug\HAYSİKİM.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form1.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form2.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form3.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form5.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form6.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Form7.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.MDIParent1.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.PersonelEkle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.Properties.Resources.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.ödeme.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.ÜrünDüzenle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.ÜrünEkle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.ÜrünSil.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\proje\proje\obj\Debug\HAYSİKİM.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\HAYSİKİM.Properties.Resources.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\HAYSİKİM.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\HAYSİKİM.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\bin\Debug\HAYSİKİM.exe.config
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\bin\Debug\HAYSİKİM.exe
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\bin\Debug\HAYSİKİM.pdb
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form2.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form3.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form5.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form6.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.Form7.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.MDIParent1.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.PersonelEkle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.ödeme.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.ÜrünDüzenle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.ÜrünEkle.resources
+C:\Users\asus\Desktop\Yeni klasör (2)\proje -2\proje\obj\Debug\proje.ÜrünSil.resources
+F:\proje -2\proje\obj\Debug\proje.csprojAssemblyReference.cache
+F:\proje -2\proje\obj\Debug\proje.Form1.resources
+F:\proje -2\proje\obj\Debug\proje.Form2.resources
+F:\proje -2\proje\obj\Debug\proje.Form3.resources
+F:\proje -2\proje\obj\Debug\proje.Form5.resources
+F:\proje -2\proje\obj\Debug\proje.Form6.resources
+F:\proje -2\proje\obj\Debug\proje.Form7.resources
+F:\proje -2\proje\obj\Debug\proje.MDIParent1.resources
+F:\proje -2\proje\obj\Debug\proje.PersonelEkle.resources
+F:\proje -2\proje\obj\Debug\proje.ödeme.resources
+F:\proje -2\proje\obj\Debug\proje.ÜrünDüzenle.resources
+F:\proje -2\proje\obj\Debug\proje.ÜrünEkle.resources
+F:\proje -2\proje\obj\Debug\proje.ÜrünSil.resources
+F:\proje -2\proje\obj\Debug\proje.csproj.GenerateResource.cache
+F:\proje -2\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+F:\proje -2\proje\bin\Debug\proje.exe.config
+F:\proje -2\proje\bin\Debug\proje.exe
+F:\proje -2\proje\bin\Debug\proje.pdb
+F:\proje -2\proje\obj\Debug\proje.Properties.Resources.resources
+F:\proje -2\proje\obj\Debug\proje.exe
+F:\proje -2\proje\obj\Debug\proje.pdb
+C:\Users\asus\Desktop\proje -2\proje\bin\Debug\proje.exe.config
+C:\Users\asus\Desktop\proje -2\proje\bin\Debug\proje.exe
+C:\Users\asus\Desktop\proje -2\proje\bin\Debug\proje.pdb
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form2.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form3.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form5.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form6.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Form7.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.MDIParent1.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.PersonelEkle.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.ödeme.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.ÜrünDüzenle.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.ÜrünEkle.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.ÜrünSil.resources
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.exe
+C:\Users\asus\Desktop\proje -2\proje\obj\Debug\proje.pdb
+C:\Users\asus\Desktop\proje\proje\bin\Debug\proje.exe.config
+C:\Users\asus\Desktop\proje\proje\bin\Debug\proje.exe
+C:\Users\asus\Desktop\proje\proje\bin\Debug\proje.pdb
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form3.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form5.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form6.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Form7.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.MDIParent1.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.PersonelEkle.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.ödeme.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.ÜrünDüzenle.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.ÜrünEkle.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.ÜrünSil.resources
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.exe
+C:\Users\asus\Desktop\proje\proje\obj\Debug\proje.pdb
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\bin\Debug\proje.exe.config
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\bin\Debug\proje.exe
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\bin\Debug\proje.pdb
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form1.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form2.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form3.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form5.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form6.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Form7.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.MDIParent1.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.PersonelEkle.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.Properties.Resources.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.ödeme.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.ÜrünDüzenle.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.ÜrünEkle.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.ÜrünSil.resources
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.exe
+D:\Toplu\uygulamalar\c#_okul_nesne\proje\proje\obj\Debug\proje.pdb
